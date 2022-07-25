@@ -48,12 +48,12 @@
   
   .img2{
     background-image:url('images/image2.jpg');
-    min-height:500px;
+    min-height:100%;
     }
   
   .img3{
     background-image:url('images/image3.jpg');
-    min-height:500px;
+    min-height:100%;
  }
 
   
